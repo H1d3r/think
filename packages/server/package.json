@@ -52,7 +52,7 @@
     "lodash": "^4.17.21",
     "mysql2": "^2.3.3",
     "nestjs-pino": "^2.5.2",
-    "nodemailer": "^6.7.5",
+    "nodemailer": "^8.0.4",
     "nuid": "^1.1.6",
     "passport": "^0.5.2",
     "passport-jwt": "^4.0.0",
